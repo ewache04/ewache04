@@ -1,60 +1,77 @@
+---
+
 # 🚀 Hey there, I'm Jeremiah E. Ochepo! 👋
 
-### 💻 Software Developer & AI Enthusiast | Building Intelligent Solutions
+### 💼 Software Developer & Business Analyst | Data-Driven | Automation-Focused
 
-I'm a results-driven **Software Developer** with over 2 years of experience crafting impactful solutions. My passion lies in driving efficiency, automating complex tasks, and integrating **Artificial Intelligence** to solve real-world problems. I thrive on bringing innovative ideas to life and am always ready for the next challenge!
-
----
-
-## What I've Been Building Lately:
-
-* **🏡 Modern Property Management System:** Contributed to a system designed to save **250+ hours per month** by automating routine tasks and leveraging AI to streamline operations. This directly boosted decision speed by **25%** and significantly reduced errors in rent collection and expense tracking.
-* **💡 AI-Powered Assessment Tool:** Developed an intelligent tool using **Python/Django and GPT-4** to evaluate user responses and accurately assess housing instability risk (89% accuracy!). This project earned recognition from homelessness outreach groups in Fitchburg, MA, for its significant community potential.
-* **💼 Pension Management System:** Designed and implemented a scalable backend system to automate monthly pension calculations for over 7 million users, ensuring complete accuracy through complex actuarial rules.
+I’m a **Software Developer and Business Analyst** with 5+ years of experience designing automated systems and data-driven solutions that improve business outcomes. Skilled in Python, SQL, Power BI, and stakeholder communication, I’ve eliminated 150+ hours of manual work monthly and uncovered \$12K+ in annual savings across multiple projects.
 
 ---
 
-## My Tech Playground:
+## 🔧 What I’ve Been Building:
 
-Here's a glimpse into the technologies and tools I love working with:
+* **🏡 Property Management Automation:** Built an end-to-end apartment system for 250+ tenants—automated rent collection, maintenance tracking, and financial reporting—saving 150+ hours/month.
 
-| Category        | Technologies                                                                                                                              |
-| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages** | Python (Flask/Django), SQL (MySQL), R, JavaScript, HTML/CSS, Java                                                                         |
-| **Tools/Platforms** | Notion, Git, GitHub, MS Excel, MS Word, CI/CD (Docker, Jenkins, Kubernetes), Agile (Scrum), Jira, AWS                                     |
-| **Key Skills** | AI Prompting, RESTful API Development (JSON), SQL Database Design & Optimization, Comprehensive Testing (Integration, Regression, E2E, Performance, Stress), System Troubleshooting |
+* **📊 Business Intelligence Dashboards:** Developed Power BI dashboards across 50+ Compass Group sites—identified \$12K+ in savings through inventory and sales analysis.
 
----
+* **🤖 AI Customer Support:** Integrated OpenAI APIs with Python to automate lease inquiries—reduced manual support effort by 40%.
 
-## Connect with Me:
-
-Let's build something amazing together or just chat about the latest in tech!
-
-* **📧 Email**: [jochepo4growth@gmail.com](mailto:jochepo4growth@gmail.com)
-* **🔗 LinkedIn**: [Jeremiah Ochepo on LinkedIn](https://www.linkedin.com/in/jeremiah-o-517729122/)
-* **💻 GitHub**: [My GitHub Profile](https://github.com/ewache04)
+* **💼 Financial & Ops Automation:** Automated expense tracking and maintenance workflows using SQL—boosted accuracy by 100% and reduced rent errors by 25%.
 
 ---
 
-## My GitHub Activity & Stats:
+## 🛠️ Tech Stack & Toolset
 
-Want to see my coding journey? Check out my dynamic stats below!
-
-![ewache04's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewache04&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewache04&layout=compact&theme=radical&hide_border=true)
-
----
-
-## I'm Currently Learning/Exploring:
-
-* **Generative AI Development:** Deep diving into advanced AI models and their applications.
-* **Cloud Architecture:** Expanding my knowledge in scalable cloud solutions, especially within AWS.
+| Category              | Tools & Technologies                                                                   |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| **Programming**       | Python, SQL, R, HTML/CSS, JavaScript, Git/GitHub, Jupyter,                                       |
+| **Data & BI**         | Power BI, Tableau, Excel, ETL, Data Cleaning, Data Visualization, Statistical Analysis |
+| **Business Analysis** | Requirements Gathering, UML/BPM, Agile/Scrum, KPI Definition, Stakeholder Management   |
+| **Platforms & Tools** | PostgreSQL, MySQL, Docker, AWS, CI/CD, Jira, OpenAI APIs                               |
 
 ---
 
-## Fun Fact About Me:
+## 🎓 Education
 
-When I'm not coding, you might find me exploring new data visualization techniques or reading about the latest advancements in machine learning!
+* **M.S., Computer & Data Science** – *Fitchburg State University* (2022–2024)
+* **M.S., Strategic Leadership** – *Roberts Wesleyan University* (2020–2022)
+* **B.S., Business Administration** – *Roberts Wesleyan University* (2016–2020)
 
 ---
+
+## 📂 Featured Projects
+
+* **🏥 ER Wait Time Equity Analysis:** Used Python, SQL, and Power BI to analyze ER data from Kaggle—highlighted demographic disparities and promoted fairness in healthcare operations.
+
+* **👟 Adidas U.S. Sales Dashboard:** Created an interactive Power BI dashboard using R and SQL to uncover regional sales trends, product performance, and seasonal patterns.
+
+* **🛒 Grocery Market Basket Analysis:** Applied association rules to uncover purchasing trends from Groceries dataset—supported product placement and promo strategies.
+
+---
+
+## 🤝 Let’s Connect
+
+📧 **Email:** [jochepo4growth@gmail.com](mailto:jochepo4growth@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/jeremiah-o-517729122](https://www.linkedin.com/in/jeremiah-o-517729122/)
+💻 **GitHub:** [github.com/ewache04](https://github.com/ewache04)
+
+---
+
+## 📈 GitHub Stats
+
+![Jeremiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewache04\&show_icons=true\&theme=radical\&hide_border=true\&count_private=true\&line_height=25)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewache04\&layout=compact\&theme=radical\&hide_border=true)
+
+---
+
+## 🧠 Currently Exploring
+
+* Scalable ETL pipelines for real-time analytics
+* Business automation with AI (LLMs, GPTs)
+* Cloud-native BI and data warehousing (AWS, BigQuery)
+
+---
+
+## 📊 Fun Fact
+
+Outside of work, I love diving into real-world datasets and uncovering patterns that tell a story. Data + storytelling = 🔥
