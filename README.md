@@ -39,16 +39,6 @@ I’m a **Software Developer and Business Analyst** with 5+ years of experience 
 
 ---
 
-## 📂 Featured Projects
-
-* **🏥 ER Wait Time Equity Analysis:** Used Python, SQL, and Power BI to analyze ER data from Kaggle—highlighted demographic disparities and promoted fairness in healthcare operations.
-
-* **👟 Adidas U.S. Sales Dashboard:** Created an interactive Power BI dashboard using R and SQL to uncover regional sales trends, product performance, and seasonal patterns.
-
-* **🛒 Grocery Market Basket Analysis:** Applied association rules to uncover purchasing trends from Groceries dataset—supported product placement and promo strategies.
-
----
-
 ## 🤝 Let’s Connect
 
 📧 **Email:** [jochepo4growth@gmail.com](mailto:jochepo4growth@gmail.com)
@@ -56,22 +46,3 @@ I’m a **Software Developer and Business Analyst** with 5+ years of experience 
 💻 **GitHub:** [github.com/ewache04](https://github.com/ewache04)
 
 ---
-
-## 📈 GitHub Stats
-
-![Jeremiah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewache04\&show_icons=true\&theme=radical\&hide_border=true\&count_private=true\&line_height=25)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewache04\&layout=compact\&theme=radical\&hide_border=true)
-
----
-
-## 🧠 Currently Exploring
-
-* Scalable ETL pipelines for real-time analytics
-* Business automation with AI (LLMs, GPTs)
-* Cloud-native BI and data warehousing (AWS, BigQuery)
-
----
-
-## 📊 Fun Fact
-
-Outside of work, I love diving into real-world datasets and uncovering patterns that tell a story. Data + storytelling = 🔥
